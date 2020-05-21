@@ -1,2 +1,2 @@
 # TH-JGJ-Project-1
-Project 1 for tree house course.
+Project 1 for Treehouse course.
