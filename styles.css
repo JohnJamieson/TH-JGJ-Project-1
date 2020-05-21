@@ -190,7 +190,7 @@ a.social:hover {
 
 
   main {
-    padding-top: 20px;
+    padding-top: 10px;
   }
 
   main p {
@@ -203,5 +203,11 @@ a.social:hover {
     margin: 40px auto;
   }
 
+  /* photo page */
+  .mypic  {
+  vertical-align: middle;
+  width: 65%;
+  }
+figcaption {
+font-size: 30px;
 }
-
