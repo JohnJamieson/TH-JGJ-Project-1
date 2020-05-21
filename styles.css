@@ -205,9 +205,12 @@ a.social:hover {
 
   /* photo page */
   .mypic  {
-  vertical-align: middle;
-  width: 65%;
-  }
+    vertical-align:center;
+    max-width: 80%;
+    height: auto;
+  } 
+
 figcaption {
-font-size: 30px;
+  font-size: 30px;
+  padding-bottom: 50px;
 }
