@@ -171,7 +171,7 @@ a.social:hover {
 @media screen and (min-width: 720px) {
   
   .flex {
-      display: -ms-flexbox;      /* TWEENER - IE 10 */
+      /* display: -ms-flexbox;      TWEENER - IE 10 */
       display: flex; 
       max-width: 1200px;
       -ms-flex-pack: distribute;
@@ -200,14 +200,18 @@ a.social:hover {
   footer {
     font-size: 1.3em;
     max-width: 1200px;
-    margin: 40px auto;
+    margin: 5% auto;
   }
 
+/* About page */
+    article {
+     margin: 0%  20%;
+}
   /* photo page */
   .mypic  {
   vertical-align: middle;
   width: 65%;
   }
 figcaption {
-font-size: 30px;
-}
+  font-size: 30px;
+  }
